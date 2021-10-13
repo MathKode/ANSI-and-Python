@@ -16,7 +16,6 @@ print("\x1b[2;11f\x1b[33;40mok\x1b[0J")
 |[Style](/c2.md)|Une partie dédiée aux styles (gras, sousligné...)|
 |[Curseur](/c3.md)|Un cours sur le déplacement du curseur|
 |[Effacement](/c4.md)|Une partie sur la suppression de texte...|
-|[Test](/c5.md)|Des testes pour mieux comprendre|
 
 Bonne lecture !
 
