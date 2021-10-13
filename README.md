@@ -15,7 +15,8 @@ print("\x1b[2;11f\x1b[33;40mok\x1b[0J")
 |[Couleur](/c1.md)|Une partie qui vous apprend à changer les couleurs de votre terminal|
 |[Style](/c2.md)|Une partie dédiée aux styles (gras, sousligné...)|
 |[Curseur](/c3.md)|Un cours sur le déplacement du curseur|
-|[Test](/c4.md)|Des testes pour mieux comprendre|
+|[Effacement](/c4.md)|Une partie sur la suppression de texte...|
+|[Test](/c5.md)|Des testes pour mieux comprendre|
 
 Bonne lecture !
 
